@@ -1,2 +1,5 @@
 # DiscordWebhookSpammer
-Discord Webhook Spammer Master
+Open cmd and write:
+pip install -r requirements.txt
+
+Enjoy!
